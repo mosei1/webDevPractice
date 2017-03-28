@@ -68,7 +68,10 @@ td{
 	border-style: solid;
 	border-width: 1px;
   border-color: teal;
+	padding: 1em;
 }
 footer{
+	padding:1px;
+	background-color: lightgreen;
 	text-align:center;
 }
