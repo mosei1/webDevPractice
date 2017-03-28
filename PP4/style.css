@@ -32,7 +32,7 @@ body{
   background: #fff;
   background-image: url("Galaxy.jpg");
   color: #3e3e3e;
-}
+   }
 table {
   color: #333;
   border-color: #999999;
@@ -41,7 +41,7 @@ table {
   font-style: italic;
   width: 70%;
   border-collapse:collapse;
-}
+	}
 table.center{
 	margin-left:auto;
 	margin-right:auto;
@@ -60,7 +60,7 @@ td:hover{
 h1{
 	font-size: 40px;
 	text-align: center;
-}
+	}
 
 td{
   font-family:serif;
@@ -69,9 +69,9 @@ td{
 	border-width: 1px;
   border-color: teal;
 	padding: 1em;
-}
+	}
 footer{
 	padding:1px;
 	background-color: lightgreen;
 	text-align:center;
-}
+	}
